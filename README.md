@@ -1,0 +1,2 @@
+# PSCAD_automation_learn
+记录使用Python实现PSCAD自动化仿真的学习过程
